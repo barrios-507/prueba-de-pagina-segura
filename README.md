@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -14,7 +14,9 @@
     h1 {
       color: #0066cc;
     }
-
+  </style>
+</head>
+<body>
   <h1>Bienvenido a mi sitio web seguro</h1>
   <p>Este sitio está protegido por HTTPS.</p>
   <a href="https://www.google.com" target="_blank">Ir a Google</a>
